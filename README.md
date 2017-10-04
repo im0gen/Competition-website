@@ -1,1 +1,1 @@
-# Competition-website
+# Competition website
